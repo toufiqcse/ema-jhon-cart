@@ -1,0 +1,12 @@
+.order-content{
+    position: sticky;
+    top: 80px
+}
+.shop{
+    z-index: 0;
+    margin-top: 85px;
+}
+
+.product{
+    z-index: 0;
+}
